@@ -1,0 +1,28 @@
+:root {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(160, 177, 12);
+}
+
+h1 {
+    font-size: xx-large;
+    color:yellow
+}
+
+h2 {
+    font-size: medium;
+    color:brown
+}
+
+h3 {
+    font-size:xx-small
+    color: light-blue
+}
+
+p {
+    font-size: xx-large;
+    font-style:normal
+    color: white
+}
