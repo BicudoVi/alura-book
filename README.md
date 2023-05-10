@@ -1,2 +1,2 @@
 # alura-book
-trabai de progamação
+trabai do grande homem
